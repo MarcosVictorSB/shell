@@ -1,0 +1,21 @@
+{
+    "pessoa": {
+        "nome": "João",
+        "idade": 30,
+        "endereco": {
+          "rua": "Rua A",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        },
+        "telefones": [
+          {
+            "tipo": "residencial",
+            "numero": "1111-1111"
+          },
+          {
+            "tipo": "celular",
+            "numero": "99999-9999"
+          }
+        ]
+    } 
+}
