@@ -1,5 +1,4 @@
 {
-    "pessoa": {
         "nome": "João",
         "idade": 30,
         "endereco": {
@@ -17,5 +16,4 @@
             "numero": "99999-9999"
           }
         ]
-    } 
 }
